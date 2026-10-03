@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Excel Dashboard](screenshots/sc.png)
+[Excel Dashboard](screenshots/sc.png)
 
 ## Project Files
 
